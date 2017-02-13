@@ -1,0 +1,88 @@
+
+body{
+  background-image:url("http://www.mariaauxiliadoratorrent.es/wp-content/uploads/2013/06/fondo-azul-8363351.png");
+}
+
+div.All {
+  width: auto;
+  height: 1000px;
+  #border-style: solid;
+  #border-color: blue;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+
+
+div.Titulo {
+  margin-left: 250px;
+  margin-right: 250px;
+  width: auto;
+  height: auto;
+  #border-style: solid;
+  #border-color: red;
+  float:fixed;
+}
+
+div.contenido {
+    width: auto;
+    height: 890px;
+    #border-style: solid;
+    #border-color: green;
+}
+div.Menu{
+  max-width: auto;
+    height: 890px;
+  #border-style: solid;
+    #border-color: green;
+  float:left;
+  
+}
+div.Formulario{
+  height: 890px;
+  min-width: 85%;
+  #border-style: solid;
+  #border-color: green;
+}
+
+div.Datos{
+  #border-style: solid;
+   #border-color: red;
+   width:auto;
+   height:auto;
+  font: oblique 120% sans-serif bold; 
+}
+
+div.kk{
+   width:400px;
+  height:480px;
+  margin: 0 auto;
+}
+
+h1{
+  font-style:italic;
+	font-weight:bold;
+  font-size:55px;
+}
+textarea {
+    resize: none;
+}
+ ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: 200px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 10px 10px 10px 20px;
+}
+
+ul li a:hover {
+    border-left: 10px solid blue;
+}
